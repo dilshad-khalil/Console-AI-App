@@ -46,10 +46,10 @@ To run the Console-AI application, follow these steps:
    - After logging in, you will have four options:
      - ChatGPT: Interact with OpenAI's chatGPT API for conversation generation.
      - Dall-E2: Generate images based on prompts using Dall-E2.
-     - Downloaded Images: View and access the downloaded images.
-     - Quit: Exit the application.
+     - About: about the app :).
+     - Exit: Exit the application.
 
-## Libraries Used
+## Languages &Libraries Used
 
 - C++ OOP (Object-Oriented Programming)
 - CURL: A library for making HTTP requests.
